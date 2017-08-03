@@ -1,7 +1,0 @@
-<mjml>
-	<mj-body>
-		<mj-container>
-			<mj-schedule label="This is a schedule"/>
-		</mj-container>
-	</mj-body>
-</mjml>
